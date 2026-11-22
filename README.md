@@ -83,7 +83,7 @@ An ordered list displaying "The number is 1" through "The number is 5", without 
 3. Open q1.html, q2.html, or q3.html in a web browser.
 4. Click the buttons to test the functionality of each webpage.
 
-## 6. Screenshots of Outputs
+ 
  ## 6. Screenshots of Outputs
 
 ### Question 1 – Interactive Text Changer
