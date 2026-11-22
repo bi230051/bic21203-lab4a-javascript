@@ -84,8 +84,20 @@ An ordered list displaying "The number is 1" through "The number is 5", without 
 4. Click the buttons to test the functionality of each webpage.
 
 ## 6. Screenshots of Outputs
+ ## 6. Screenshots of Outputs
 
-Screenshots of the browser outputs for Questions 1, 2, and 3 will be provided in the `screenshots` folder.
+### Question 1 – Interactive Text Changer
+![Q1 Output](q1-output.png)
+
+### Question 2 – Smart Number Validator
+![Q2 Test 5](q2-test-5.png)
+![Q2 Test 10](q2-test-10.png)
+![Q2 Test 15](q2-test-15.png)
+![Q2 Invalid Input](q2-invalid.png)
+![Q2 Empty Input](q2-empty.png)
+
+### Question 3 – Dynamic Number Generator
+![Q3 Output](q3-output.png)
 
 ## 7. Conclusion and Reflection
 
